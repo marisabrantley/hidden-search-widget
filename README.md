@@ -4,7 +4,7 @@ This project uses JavaScript and CSS transitions to display a search icon; when 
 
 ## Objective
 * Use JavaScript event handlers to activate a transition that widens the search bar when the search icon button is clicked.
-* Use CSS transitions and transform: translateX on the button so that it moves with the search bar after the icon is clicked.
+* Use CSS transitions and transform: translateX on the button so that it moves with the search bar after clicking.
 
 https://user-images.githubusercontent.com/60168324/157145658-ea84223f-fbf7-416b-af28-99e7f3702483.mov
 
